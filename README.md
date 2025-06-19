@@ -10,15 +10,28 @@
   🚀 Em constante evolução, buscando escrever códigos limpos e funcionais.
 </p>
 
-<H2>SKILLS</H2>
-<div align="center">
+<h2 align="center">SKILLS</h2>
+
+<p align="center">
   <!-- Badges de tecnologias -->
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <h2>GitHub Stats:</h2>
-  <!-- Estatísticas GitHub + Top Languages -->
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusSMariano-Dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMariano-Dev&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+</p>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- Estatísticas GitHub -->
+        <img src="https://github-readme-stats.vercel.app/api?username=MatheusSMariano-Dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMariano-Dev&layout=compact&theme=radical" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</p>
