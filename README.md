@@ -34,18 +34,3 @@
     </tr>
   </table>
 </p>
-
-<h2 align="center">🎯 Objetivos</h2>
-
-<p align="center">
-  - Aprender novas tecnologias. <br>
-  - Contribuir para projetos open-source. <br>
-  - Melhorar minhas habilidades.
-</p>
-
-<h2 align="center">🔗 Contatos</h2>
-
-<p align="center">
-  - 📧 Email: [amatheus300@hotmail.com] <br>
-  - 🔗 LinkedIn: [in/matheus-mariano-a775a81b5]
-</p>
