@@ -10,28 +10,42 @@
   🚀 Em constante evolução, buscando escrever códigos limpos e funcionais.
 </p>
 
-<h2 align="center">SKILLS</h2>
+<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
 <p align="center">
-  <!-- Badges de tecnologias -->
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <table>
     <tr>
       <td>
-        <!-- Estatísticas GitHub -->
         <img src="https://github-readme-stats.vercel.app/api?username=MatheusSMariano-Dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <!-- Top Languages -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMariano-Dev&layout=compact&theme=radical" alt="Top Langs" />
       </td>
     </tr>
   </table>
+</p>
+
+<h2 align="center">🎯 Objetivos</h2>
+
+<p align="center">
+  - Aprender novas tecnologias. <br>
+  - Contribuir para projetos open-source. <br>
+  - Melhorar minhas habilidades.
+</p>
+
+<h2 align="center">🔗 Contatos</h2>
+
+<p align="center">
+  - 📧 Email: [amatheus300@hotmail.com] <br>
+  - 🔗 LinkedIn: [in/matheus-mariano-a775a81b5]
 </p>
