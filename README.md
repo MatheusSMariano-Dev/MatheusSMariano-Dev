@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/refs/heads/main/github-header-image.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/main/github-header-image.png" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Matheus Mariano! 👋</h1>
@@ -40,5 +40,5 @@
 <h2 align="center">🎮 Snake Game</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/main/dist/github-contribution-grid-snake.gif" alt="Snake Game" width="400" />
+  <img src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/dist/github-contribution-grid-snake.gif" alt="Snake Game" width="400" />
 </p>
