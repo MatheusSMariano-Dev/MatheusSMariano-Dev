@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/main/banner.png" alt="Banner do perfil" width="100%" />
+  <img src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/refs/heads/main/github-header-image.png" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Matheus Mariano! 👋</h1>
