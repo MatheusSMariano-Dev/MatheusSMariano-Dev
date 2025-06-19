@@ -34,3 +34,11 @@
     </tr>
   </table>
 </p>
+
+<hr/>
+
+<h2 align="center">🎮 Snake Game</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/main/dist/github-contribution-grid-snake.gif" alt="Snake Game" width="400" />
+</p>
