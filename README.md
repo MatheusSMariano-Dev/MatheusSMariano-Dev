@@ -10,6 +10,7 @@
   🚀 Em constante evolução, buscando escrever códigos limpos e funcionais.
 </p>
 
+<H2>SKILLS</H2>
 <div align="center">
   <!-- Badges de tecnologias -->
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
