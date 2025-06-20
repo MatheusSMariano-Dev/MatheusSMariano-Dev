@@ -23,23 +23,18 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MatheusSMariano-Dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMariano-Dev&layout=compact&theme=radical" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusSMariano-Dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMariano-Dev&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-<hr/>
+---
+
+### 🐍 Snake Game
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Game — GitHub Contributions" src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake.gif" width="400" />
+    <img alt="Snake Game — GitHub Contributions" src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake.svg" width="400" />
   </picture>
 </p>
