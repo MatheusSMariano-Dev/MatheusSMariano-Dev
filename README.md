@@ -3,9 +3,6 @@
 </h1>
 
 </p>
-
-<h1 align="center">Olá, eu sou o Matheus Mariano! 👋</h1>
-
 <p align="center">
   🎨 Desenvolvedor Front-end apaixonado por transformar ideias em interfaces modernas e responsivas. <br>
   💻 HTML, CSS, JavaScript sempre presentes — com criatividade no código. <br>
