@@ -35,6 +35,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Game — GitHub Contributions" src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake.svg" width="400" />
+    <img alt="Snake Game — GitHub Contributions" src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
