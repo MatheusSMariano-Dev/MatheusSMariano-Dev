@@ -32,3 +32,12 @@
 ### 🐍 Snake Game
 
 ![snake gif](https://github.com/MatheusSMariano-Dev/MatheusSMariano-Dev/blob/output/github-contribution-grid-snake.gif)
+### 🐍 Snake Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Game" src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
