@@ -1,35 +1,32 @@
-name: Generate Snake Game
+name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"    # Roda a cada 6 horas
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Executa a cada 12 horas
   push:
     branches:
       - main
-
-permissions:
-  contents: write           # Permite gravar na branch
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/Snake.svg
-            dist/Snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: MatheusSMariano-Dev
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-light
+          outputs_dark: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
