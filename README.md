@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/main/github-header-image.png" width="100%" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Matheus+Mariano!;" />
+</h1>
+
 </p>
 
 <h1 align="center">Olá, eu sou o Matheus Mariano! 👋</h1>
