@@ -4,9 +4,11 @@
 
 </p>
 <p align="center">
-  🎨 Desenvolvedor Front-end apaixonado por transformar ideias em interfaces modernas e responsivas. <br>
-  💻 HTML, CSS, JavaScript sempre presentes — com criatividade no código. <br>
-  🚀 Em constante evolução, buscando escrever códigos limpos e funcionais.
+  Desenvolvedor Back-end apaixonado por criar soluções robustas, seguras e escaláveis.
+☕ Foco principal em Java e seu ecossistema, aplicando boas práticas de programação, orientação a objetos e arquitetura limpa.
+⚙️ Experiência com APIs RESTful, Spring Boot, bancos de dados relacionais e integração entre sistemas.
+💻 Conhecimento sólido em HTML, CSS e JavaScript, garantindo uma comunicação fluida entre o front e o back-end.
+🚀 Sempre em evolução, buscando aprimorar a performance, legibilidade e eficiência do código — com paixão por transformar lógica em resultados reais.
 </p>
 
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
