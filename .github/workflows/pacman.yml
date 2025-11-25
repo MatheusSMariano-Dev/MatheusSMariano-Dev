@@ -1,7 +1,7 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -18,29 +18,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: generate pacman-contribution-graph.svg
+      - name: generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: "MatheusSMariano-Dev"
 
-      - name: check generated files
-        run: |
-          echo "Listando arquivos no diretório:"
-          ls -R
+      - name: list files
+        run: ls -R
 
-      - name: move SVG to dist if exists
-        run: |
-          mkdir -p dist
-          if [ -f "pacman-contribution-graph.svg" ]; then
-            mv pacman-contribution-graph.svg dist/
-          else
-            echo "Arquivo pacman-contribution-graph.svg não encontrado. Pulando mv."
-          fi
-
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: push output to branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: . # usar "." se o SVG já estiver na raiz
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
