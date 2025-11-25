@@ -55,15 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMariano-Dev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusSMariano-Dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMariano-Dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusSMariano-Dev/MatheusSMariano-Dev/output/pacman-contribution-graph-dark.svg">
