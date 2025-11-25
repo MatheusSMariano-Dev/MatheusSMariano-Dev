@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-Desenvolvedor Back-end
-  
-Desenvolvedor Back-end focado em criar soluções robustas, escaláveis e de alta qualidade.
-Especialista em Java, Spring Boot, APIs RESTful, bancos de dados relacionais, Docker e testes automatizados com JUnit.
-Conhecimentos em HTML, CSS e JavaScript, garantindo integração eficiente entre front-end e back-end.
-Sempre em evolução, buscando melhorar performance, legibilidade e eficiência do código, transformando lógica em resultados reais.
+Oi! Sou um Desenvolvedor Back-end apaixonado por transformar ideias em soluções que funcionem de verdade.
+Trabalho principalmente com Java e Spring Boot, criando APIs RESTful, microserviços e sistemas escaláveis que sejam robustos e fáceis de manter.
+Tenho experiência com bancos de dados relacionais, Docker para ambientes consistentes e JUnit para testes automatizados que garantam qualidade e confiabilidade do código.
+Também conheço HTML, CSS e JavaScript, o que me permite ter uma visão completa do sistema e colaborar melhor com times de front-end.
+Adoro desafios e estou sempre buscando aprimorar performance, escrever código limpo e eficiente e aplicar boas práticas de orientação a objetos e arquitetura limpa.
+Mais do que tecnologia, gosto de resolver problemas reais, aprender com cada projeto e transformar lógica e planejamento em resultados tangíveis.
 </p>
 
 ---
@@ -16,52 +16,29 @@ Sempre em evolução, buscando melhorar performance, legibilidade e eficiência 
 <h2 align="center">Tecnologias & Ferramentas</h2>
 
 <p align="center">
-  <!-- 🖥️ Front-end -->
-  <strong>Front-end:</strong>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-  <br><br>
-
-  <!-- ⚙️ Back-end -->
-  <strong>Back-end:</strong>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-%23A91D1D.svg?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="CRUD" src="https://img.shields.io/badge/CRUD-%23007ACC.svg?style=for-the-badge&logo=database&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-  <br><br>
-
-  <!-- 🧠 Banco de Dados -->
-  <strong>Bancos de Dados:</strong>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="H2 Database" src="https://img.shields.io/badge/H2-003B57.svg?style=for-the-badge&logo=h2&logoColor=white" />
-
-  <br><br>
-
-  <!-- 🧰 Ferramentas & IDEs -->
-  <strong>Ferramentas & IDEs:</strong>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-
-  <br><br>
-
-  <!-- ☁️ APIs e Deploy -->
-  <strong>APIs & Deploy:</strong>
-  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-%2302569B.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-A91D1D?style=flat-square&logo=junit5&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="CRUD" src="https://img.shields.io/badge/CRUD-007ACC?style=flat-square&logo=database&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="H2" src="https://img.shields.io/badge/H2-003B57?style=flat-square&logo=h2&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 </p>
 
 
