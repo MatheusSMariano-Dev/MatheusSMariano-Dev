@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - uses: actions/checkout@v3
@@ -21,12 +21,21 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "MatheusSMariano-Dev"
 
-      - name: move SVG to dist
+      - name: check generated files
+        run: |
+          echo "Listando arquivos no diretório:"
+          ls -R
+
+      - name: move SVG to dist if exists
         run: |
           mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
+          if [ -f "pacman-contribution-graph.svg" ]; then
+            mv pacman-contribution-graph.svg dist/
+          else
+            echo "Arquivo pacman-contribution-graph.svg não encontrado. Pulando mv."
+          fi
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
