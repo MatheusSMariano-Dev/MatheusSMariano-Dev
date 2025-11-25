@@ -30,6 +30,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: . # usar "." se o SVG já estiver na raiz
+          build_dir: .  # ajuste para o diretório correto do SVG
+          force_orphan: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
